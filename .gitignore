@@ -1,0 +1,44 @@
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
+
+# Build
+/build/
+/out/
+/dist/
+/node_modules/
+/__pycache__/
+*.pyc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Android
+/local.properties
+/.gradle
+/build/
+/.cxx/
+/.externalNativeBuild/
+/.gradle/
+/.RadioGroup/
+/app/build/
+/app/.externalNativeBuild/
+/app/.cxx/
+
+# Keygen
+keygen_node.json
+keygen_local.json
+keygen_working.json
+
+# OS
+.DS_Store
+Thumbs.db
