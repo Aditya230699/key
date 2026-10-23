@@ -1,8 +1,8 @@
 {
   "build_id": "181",
-  "epoch": 2963,
+  "epoch": 2964,
   "lane": "k7",
-  "key": "5ce91c85a5aa5a2a670c553daf07a8a5ab730508692106a9e7fbb519dd219ae1",
+  "key": "87c4445eb7cd8dc1a0183bbe1e7c6b394cb00a19fe6fdc66db22555ded22dcfb",
   "query_hash": "670bbf38d0868f446e2346c1e956ca2c40c416e733ca248fd54e04f1c8b99145",
   "mask_blocks": [
     "/MzSwQXUhz0=",
@@ -11,7 +11,7 @@
     "7x/KqFQY9W4="
   ],
   "static_key": "Xot36i3lK3:v1",
-  "_fetched_at": 1792713384,
-  "extracted_at": "2026-10-22 23:56:24 UTC",
+  "_fetched_at": 1792723236,
+  "extracted_at": "2026-10-23 02:40:36 UTC",
   "verified_sources": 5
 }
